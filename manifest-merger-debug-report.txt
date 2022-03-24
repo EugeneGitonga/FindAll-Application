@@ -1,0 +1,292 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\324eff4d92a34e95327c58724a5cd181\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a5e41e698e29cb02a31bb6a2dccc80d5\library-2.1.4\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3888b76ca1d3233026c2f5cad8877075\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4760b90909a82ee36cc07d38338ec5fa\spots-dialog-0.7\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9d03c9eac7f1af7656a84a91e9ae6d17\circleimageview-2.2.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\754cf66d9f0631d314c5abeb386640c2\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.medyo:fancybuttons:1.8.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a89e7356030830af7153e4d95b25a80d\fancybuttons-1.8.4\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5613b1575c45a5ed4dab5ab199b10ad0\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3998c240f5cfb53b5a82e22928537ad7\play-services-tasks-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6dc35360d9bdc2e02440dcf125237820\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\34b522c8855e0c73cf9effc4a9a32013\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\8620ba8927b39a6d291db6ea05c53d76\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\bf9b5a52845b8771aff5fabdecdcc03d\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\beeb82b2510e87c5231b2c828dbda485\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\d8d452f44ab125f201933d0870752fbc\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c27add378764bdcebfb24b34f0f1f3f3\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\12848b6e158399c9fecf360b368048b1\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\222ad3875af524dbeddaea9e092a0d60\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9e628c352ef49ed08b5b22ed60e08d89\exifinterface-27.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eb11e490220b2b77e71b21d47a6ef261\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\555b39dad4a9593ee5ac0435517d4a05\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\115e96da560aef7a1eded67ff187307e\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\f3d8400d34d44a28d45a1ffcf10f060c\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:9:22-72
+application
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:16:5-56:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4760b90909a82ee36cc07d38338ec5fa\spots-dialog-0.7\AndroidManifest.xml:12:5-20
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4760b90909a82ee36cc07d38338ec5fa\spots-dialog-0.7\AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9d03c9eac7f1af7656a84a91e9ae6d17\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9d03c9eac7f1af7656a84a91e9ae6d17\circleimageview-2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.medyo:fancybuttons:1.8.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a89e7356030830af7153e4d95b25a80d\fancybuttons-1.8.4\AndroidManifest.xml:11:5-20
+MERGED from [com.github.medyo:fancybuttons:1.8.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a89e7356030830af7153e4d95b25a80d\fancybuttons-1.8.4\AndroidManifest.xml:11:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3998c240f5cfb53b5a82e22928537ad7\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3998c240f5cfb53b5a82e22928537ad7\play-services-tasks-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:22:9-40
+activity#jr.minor2.jiit.com.findall.Police.Admin_Booking
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:23:9-58
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:23:19-55
+activity#jr.minor2.jiit.com.findall.Police.Admin_Act
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:24:9-54
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:24:19-51
+activity#jr.minor2.jiit.com.findall.Packages
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:25:9-46
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:25:19-43
+activity#jr.minor2.jiit.com.findall.Home_Page
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:26:9-29:59
+	android:label
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:28:13-62
+	android:theme
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:27:13-38
+activity#jr.minor2.jiit.com.findall.myBooking
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:30:9-47
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:30:19-44
+activity#jr.minor2.jiit.com.findall.Police.Form_Filling
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:31:9-57
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:31:19-54
+activity#jr.minor2.jiit.com.findall.Police.Police_Details
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:32:9-59
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:32:19-56
+activity#jr.minor2.jiit.com.findall.Login_Home
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:33:9-39:20
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:33:19-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:37:27-74
+activity#jr.minor2.jiit.com.findall.SignUp_Act
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:40:9-48
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:40:19-45
+activity#jr.minor2.jiit.com.findall.Home_Act
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:41:9-46
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:41:19-43
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:50:9-52:55
+	android:value
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:52:13-52
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:51:13-58
+activity#jr.minor2.jiit.com.findall.Options_Search
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:54:9-52
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:54:19-49
+activity#jr.minor2.jiit.com.findall.Police.Police_Act
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:55:9-55
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml:55:19-52
+uses-sdk
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\324eff4d92a34e95327c58724a5cd181\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\324eff4d92a34e95327c58724a5cd181\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a5e41e698e29cb02a31bb6a2dccc80d5\library-2.1.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a5e41e698e29cb02a31bb6a2dccc80d5\library-2.1.4\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3888b76ca1d3233026c2f5cad8877075\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3888b76ca1d3233026c2f5cad8877075\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a65c03b57a0caa425465ef6e2b642e63\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4760b90909a82ee36cc07d38338ec5fa\spots-dialog-0.7\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.d-max:spots-dialog:0.7] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\4760b90909a82ee36cc07d38338ec5fa\spots-dialog-0.7\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9d03c9eac7f1af7656a84a91e9ae6d17\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9d03c9eac7f1af7656a84a91e9ae6d17\circleimageview-2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\754cf66d9f0631d314c5abeb386640c2\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\754cf66d9f0631d314c5abeb386640c2\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.medyo:fancybuttons:1.8.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a89e7356030830af7153e4d95b25a80d\fancybuttons-1.8.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.medyo:fancybuttons:1.8.4] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\a89e7356030830af7153e4d95b25a80d\fancybuttons-1.8.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5613b1575c45a5ed4dab5ab199b10ad0\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\5613b1575c45a5ed4dab5ab199b10ad0\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3998c240f5cfb53b5a82e22928537ad7\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\3998c240f5cfb53b5a82e22928537ad7\play-services-tasks-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6dc35360d9bdc2e02440dcf125237820\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\6dc35360d9bdc2e02440dcf125237820\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\34b522c8855e0c73cf9effc4a9a32013\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\34b522c8855e0c73cf9effc4a9a32013\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\8620ba8927b39a6d291db6ea05c53d76\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\8620ba8927b39a6d291db6ea05c53d76\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\bf9b5a52845b8771aff5fabdecdcc03d\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\bf9b5a52845b8771aff5fabdecdcc03d\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\beeb82b2510e87c5231b2c828dbda485\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\beeb82b2510e87c5231b2c828dbda485\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\d8d452f44ab125f201933d0870752fbc\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\d8d452f44ab125f201933d0870752fbc\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c27add378764bdcebfb24b34f0f1f3f3\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\c27add378764bdcebfb24b34f0f1f3f3\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\12848b6e158399c9fecf360b368048b1\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\12848b6e158399c9fecf360b368048b1\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\222ad3875af524dbeddaea9e092a0d60\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\222ad3875af524dbeddaea9e092a0d60\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9e628c352ef49ed08b5b22ed60e08d89\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9e628c352ef49ed08b5b22ed60e08d89\exifinterface-27.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eb11e490220b2b77e71b21d47a6ef261\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eb11e490220b2b77e71b21d47a6ef261\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\555b39dad4a9593ee5ac0435517d4a05\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\555b39dad4a9593ee5ac0435517d4a05\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\115e96da560aef7a1eded67ff187307e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\115e96da560aef7a1eded67ff187307e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\f3d8400d34d44a28d45a1ffcf10f060c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\f3d8400d34d44a28d45a1ffcf10f060c\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Road_Assistant _Project\Road-X-master\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\eaad525b55c5d1839786b1d2bb28d1d8\dexter-5.0.0\AndroidManifest.xml:28:13-60
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\dcc1d02ad2e1c81b8d8e23e9031fb11b\picasso-2.71828\AndroidManifest.xml:9:13-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\2a47243cae22a3ee623d55b7505af484\play-services-maps-16.1.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\9dfbba0d19c6d78f6f3b80bcbabd668b\play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\ADMIN\.gradle\caches\transforms-2\files-2.1\24740dd5859002307fe0385a67bc92b9\play-services-basement-16.0.1\AndroidManifest.xml:24:13-58
